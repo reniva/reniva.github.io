@@ -223,17 +223,17 @@
 		}
 
 	h1 {
-		font-size: 1.85em;
-		letter-spacing: 0.22em;
+		font-size: 3em;
+		letter-spacing: 0.1em;
 		margin: 0 0 0.525em 0;
 	}
 
 	h2 {
-		font-size: 1.25em;
+		font-size: 2em;
 	}
 
 	h3 {
-		font-size: 1em;
+		font-size: 1.5em;
 	}
 
 	h4 {
@@ -896,7 +896,7 @@
 		opacity: 0.95;
 		position: relative;
 		text-align: center;
-		width: 27em;
+		width: 50em;
 	}
 
 		#main .avatar {
