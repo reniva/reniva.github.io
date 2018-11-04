@@ -228,7 +228,6 @@
 
 	h1 {
 		font-size: 3em;
-		font-weight: bold;
 		letter-spacing: 0.1em;
 		margin: 0 0 0.525em 0;
 	}
@@ -257,6 +256,7 @@
 
 		h1 {
 			font-size: 1.65em;
+			font-weight: bold;
 		}
 
 	}
